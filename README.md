@@ -14,7 +14,7 @@
 
  ## :rocket: Tecnologias
 
- This project was developed using the following technologies:
+ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
  - [NextJS](https://nextjs.org)
  - [Auth0](https://auth0.com)
